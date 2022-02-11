@@ -32,5 +32,7 @@ while True:
         function.hapus_kontak(daftar_kontak)
     elif menu == "4":
         function.cari_kontak(daftar_kontak)
+    else:
+        print("Menu tidak tersedia")
 
 print("program selesai berjalan, sampai jumpa")
