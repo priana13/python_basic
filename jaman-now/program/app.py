@@ -30,5 +30,7 @@ while True:
         daftar_kontak.append(kontak)
     elif menu == "3":
         function.hapus_kontak(daftar_kontak)
+    elif menu == "4":
+        function.cari_kontak(daftar_kontak)
 
 print("program selesai berjalan, sampai jumpa")
