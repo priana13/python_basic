@@ -12,3 +12,6 @@ herro2 = Herro("Herian" , 700 , 50 , 30)
 print(herro1.__dict__)
 print(herro2.__dict__)
 print(herro1.name)
+nama = "priana"
+
+print(nama)
